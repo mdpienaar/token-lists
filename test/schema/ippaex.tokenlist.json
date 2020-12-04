@@ -1,0 +1,49 @@
+{
+  "name": "IPPAEX Token List",
+  "logoURL": "https://www.africahead.co.za/Africahead/Moiom_files/TransparentFriendsFMoyomLogo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "utilitytoken": {
+      "name": "UtilityToken",
+      "description": "A token, having only utility function, not giving any rights to other assets, except those assets, which can be bought with it
+      in an armslength transaction."
+    },
+    "brandtoken": {
+      "name": "BrandToken",
+      "description": "A token, backed by a brand asset, thus giving rights to a percentage of the brand value or in another word goodwill."
+    }
+  },
+  "timestamp": "2020-12-04",
+  },
+  
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xb9892f9a892f3e251fc58b9076c56add528eb8a6",
+      "symbol": "MYM",
+      "name": "Moyom",
+      "decimals": 18,
+      "logoURL": "https://www.africahead.co.za/Africahead/Moiom_files/TransparentFriendsFMoyomLogo.png",
+      "tags": UtilityToken,
+    },
+    
+    {
+      "chainId": 1,
+      "address": "0xfb48e0dea837f9438309a7e9f0cfe7ee3353a84e",
+      "symbol": "AFA",
+      "name": "Africahead Ipparts",
+      "decimals": 2,
+      "logoURL": "https://www.africahead.co.za/Africahead/RaisingCapital_files/AfricaheadDonkerblouNaLinks.png",
+      "tags: BrandToken,
+    },
+    
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
